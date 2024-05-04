@@ -43,8 +43,8 @@ function addImageToUI(url) {
 
   const img = document.createElement("img");
   img.setAttribute("src", url);
-  img.height = "400";
-  img.width = "400";
+  img.height = "300";
+  img.width = "300";
 
   div.append(img);
   imageListContainer.append(div);
