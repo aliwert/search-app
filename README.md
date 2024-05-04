@@ -2,7 +2,7 @@
 ## Description:
 - This is a simple web application that allows users to search for images using a keyword. It fetches images from the Unsplash API and displays them dynamically on the page. Users can also clear the search input to perform a new search.
 
-## Features:
+## 🤖Features:
 - Search for images using keywords.<br>
 - Display search results dynamically.<br>
 - Clear search results with the "Clear" button.<br>
@@ -14,10 +14,11 @@
 3. Click the "Clear" button to clear the search input and the displayed images.<br>
 
 
-## Contributing:
-- Contributions to this project are welcome. If you have any suggestions or would like to report any issues, please feel free to submit a pull request or open an issue on the project's repository.
 
-### Technologies Used:
+## 🛠️Technologies Used:
 - HTML
 - CSS
 - JavaScript
+- 
+## 👽Contributions
+- Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
