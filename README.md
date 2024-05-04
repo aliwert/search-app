@@ -1,6 +1,9 @@
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://github.com/zbetcheckin/Security_list)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # Product List Website
 ## Description:
-- This is a simple web application that allows users to search for images using a keyword. It fetches images from the Unsplash API and displays them dynamically on the page. Users can also clear the search input to perform a new search.
+- This is a web application that allows users to search for images using a keyword. It fetches images from the Unsplash API and displays them dynamically on the page. Users can also clear the search input to perform a new search.
 
 ## 🤖Features:
 - Search for images using keywords.<br>
