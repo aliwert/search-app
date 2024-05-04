@@ -8,7 +8,7 @@
 - Clear search results with the "Clear" button.<br>
 - Responsive design for seamless viewing on various devices.<br>
 
-### Usage:
+## Usage:
 1. Enter a keyword into the search input field.<br>
 2. Click the "Search" button to fetch images related to the keyword.<br>
 3. Click the "Clear" button to clear the search input and the displayed images.<br>
